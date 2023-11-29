@@ -1,0 +1,17 @@
+{
+    "user1": {
+        "password": "123",
+        "2FA": {
+            "enabled": true,
+            "secret": "AEZDCITPHQXSY4DJ",
+            "tempSecret": "CY5C6SQ6INUTE6JL"
+        }
+    },
+    "user2": {
+        "password": "123",
+        "2FA": {
+            "enabled": true,
+            "secret": "JAHFIJKQC5IRUTQU"
+        }
+    }
+}
